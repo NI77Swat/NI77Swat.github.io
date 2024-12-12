@@ -16,3 +16,4 @@ For this part of the lab just trying to think about and make the secret number w
 
 The last lab we had is truly one of my favorites and scariest because everything we were taught and learned was put into this lab and why its so scary because the code almost disappeared  
 
+have a great day
